@@ -4,6 +4,7 @@ Link download: https://drive.google.com/open?id=1F9zWXz3bNfZfODeXhEvS4hDaHheNAbZ
 
 Hướng dẫn sử dụng:
 - Cài font VNF - Comic Sans (được đính kèm)
+- Đọc phần hướng dẫn trong phần mềm
 - Bắt đầu sử dụng chương trình
 
 Nhóm phát triển:
